@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/mariombo-09/Juego-Reciclaje
+	fetch = +refs/heads/*:refs/remotes/origin/*

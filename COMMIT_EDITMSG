@@ -1,0 +1,7 @@
+Add themed environments and bonus coin power-ups to the game
+
+Introduce new game themes (Halloween, Christmas) with unique visual styles, lighting, and environments, along with power-ups for coin multipliers and extra lives. Implement theme selection and purchase logic in the shop, update environment generation for theme-specific decorations, and adjust trash obstacle rendering based on the active theme. Modify lighting components to use theme-based settings and update coin reward calculations to incorporate active coin multipliers.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 2bfe7170-b2f3-484b-aa40-fa565f4e8e9a
+Replit-Commit-Checkpoint-Type: full_checkpoint
