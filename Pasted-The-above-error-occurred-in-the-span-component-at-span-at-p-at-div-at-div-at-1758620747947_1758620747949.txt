@@ -1,0 +1,31 @@
+The above error occurred in the <span> component:
+
+    at span
+    at p
+    at div
+    at div
+    at div
+    at WasteCard (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/src/components/WasteCard.tsx:19:37)
+    at Game (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/src/components/Game.tsx:27:22)
+    at Suspense
+    at Suspense
+    at ErrorBoundary (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-T6SUJGNB.js?v=fdd32065:16490:5)
+    at FiberProvider (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-T6SUJGNB.js?v=fdd32065:18170:21)
+    at Provider (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-T6SUJGNB.js?v=fdd32065:17779:3)
+
+React will try to recreate this component tree from scratch using the error boundary you provided, ErrorBoundary.
+R3F: Span is not part of the THREE namespace! Did you forget to extend? See: https://docs.pmnd.rs/react-three-fiber/api/objects#using-3rd-party-objects-declaratively
+R3F: Span is not part of the THREE namespace! Did you forget to extend? See: https://docs.pmnd.rs/react-three-fiber/api/objects#using-3rd-party-objects-declaratively
+The above error occurred in the <ForwardRef(Canvas)> component:
+
+    at Canvas (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-T6SUJGNB.js?v=fdd32065:18236:3)
+    at FiberProvider (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-T6SUJGNB.js?v=fdd32065:18170:21)
+    at CanvasWrapper
+    at KeyboardControls (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@react-three_drei.js?v=fdd32065:9151:8)
+    at div
+    at App (https://9d1860ce-ef8e-4f50-b1cc-0381d5646954-00-vtjq1isqajc7.riker.replit.dev/src/App.tsx?v=-d9ZXGFtFvVBoV-bILjO6:56:25)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+R3F: Span is not part of the THREE namespace! Did you forget to extend? See: https://docs.pmnd.rs/react-three-fiber/api/objects#using-3rd-party-objects-declaratively
+THREE.WebGLRenderer: Context Lost.
